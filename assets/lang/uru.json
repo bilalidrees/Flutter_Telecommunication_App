@@ -1,0 +1,569 @@
+{
+
+  "Menu": "مینو",
+
+  "Home": "ہوم" ,
+
+  "Welcome" : "خوش آمدید" ,
+
+  "Delete" : "ڈیلیٹ کریں",
+
+  "Okay":"ٹھیک ہے",
+
+  "Apps":"ایپ",
+
+  "Share not supported":"شیر کی سہولت نہیں ہے",
+
+  "Settings": "سیٹینگ",
+
+  "Home Cards": "ہوم کارڈز",
+
+  "Select to Add": "شامل کرنے کے لئے منتخب کریں",
+
+  "Prayer Time": "نماز کے اوقات",
+
+  "Now Fajr" : "وقت فجر",
+
+  "Next Sunrise": "اگلا طلوع آفتاب",
+
+  "Sunrise Time" : "طلوع آفتاب کا وقت",
+
+  "Next Ishraq" : "اگلا اشراق",
+
+  "Now Ishraq" : "وقت اشراق",
+
+  "Next Chasht": "اگلا چشت",
+
+  "Now Chasht" : "اب چشت" ,
+
+  "Next Zawal" : "اگلا ذوال" ,
+
+  "Zawal Time" : "وقت ذوال" ,
+
+  "Next Zuhr" : "اگلا ظہر" ,
+
+  "Now Zuhr" : "وقت ظہر" ,
+
+  "Next Asr" : "اگلا عصر",
+
+  "Now Asr" : "اب عصر",
+
+  "Next Sunset" : "اگلا سورج غروب" ,
+
+  "Sunset Time" : "غروب آفتاب کا وقت",
+
+  "Next Maghrib @": "اگلا مغرب @" ,
+
+  "Now Maghrib" : "وقت مغرب" ,
+
+  "Next Isha" : "اگلی عشاء" ,
+
+  "Now Isha" : "وقت عشاء",
+
+  "Next Fajr" : "اگلا فجر" ,
+
+  "Weather" : "موسم",
+
+  "Humidity--" : "نمی --" ,
+
+  "UV index--" : "UV انڈیکس--",
+
+  "Feels Like" : "محسوس ہوتا ہے",
+
+  "Precipitation Probability" : "بارش کا امکان",
+
+  "Precipitation Intensity" : "بارش کی شدت",
+
+  "Clear" : "صاف",
+
+  "Weather Details" :"موسم کی تفصیلات",
+
+  "Low Temperature" : "کم درجہ حرا رت",
+
+  "High Temperature" : "اعلی درجہ حرارت",
+
+  "KSE Rates": "کے ایس ای",
+
+  "Low Index" : "کم انڈیکس",
+
+  "High Index" : "ہائی انڈیکس" ,
+
+  "Net Change" : "خالص تبدیلی" ,
+
+  "Forex Rates": "فاریکس" ,
+
+  "CURRENCY" : "کرینسی",
+
+  "BUYING" : "خریدنا" ,
+
+  "SELLING" : "بیچنا",
+
+  "Google Ads" : "گوگل اشتہارات",
+
+  "Quran": " قرآن",
+
+  "Ads": "اشتہارات",
+
+  "Application Tour": "ایپلیکیشن ٹور",
+
+  "About" : "متعلق ",
+
+  "Logout": "لاگ آوٹ",
+
+  "My Location": "جگہ",
+
+  "Language" : "زبان" ,
+
+  "Islamabad" : "اسلام آباد",
+
+  "ISLAMABAD" : "اسلام آباد",
+
+  "Karachi" : "کراچی",
+
+  "KARACHI" : "کراچی",
+
+  "Lahore": "لاہور",
+
+  "LAHORE": "لاہور",
+
+  "Auto" : "آٹو",
+
+  "Notifications" : "اطلاعات",
+
+  "Night Mode" : "سیاہ موڈ",
+
+  "Apply": "لاگو کریں",
+
+  "Cancel": "منسوخ کریں",
+
+  "Location": "جگہ",
+
+  "Dark Mode": "سیاہ موڈ" ,
+
+  "AUTO": "آٹو",
+
+  "minutes": "منٹ",
+
+  "hours": "گھنٹے",
+
+  "days": "دن",
+
+  "minute": "منٹ",
+
+  "hour": "گھنٹے",
+
+  "month":"مہینے",
+
+  "day": "دن",
+
+  "ago": "پہلے",
+
+  "Undefined Number":"نمبر کی وضاحت نہیں کی گئی ہے",
+
+  "Loading more data...":"مزید ڈیٹا لوڈ ہو رہا ہے",
+
+  "Add to Home":  "ہوم میں شامل کریں",
+
+  "Next": "نیکسٹ",
+
+  "Verify": "تصدیق کری",
+
+  "Verification": "تصدیق",
+
+  "Resend SMS": "ایس ایم ایس دوبارہ بھیجیں",
+
+  "Please Wait...": "برائے مہربانی انتظار کریں",
+
+  "Pull to refresh": "ریفرش",
+
+  "Refreshing...": "ریفرشینگ",
+
+  "Login": "لاگ ان",
+
+  "English": "English",
+
+  "Urdu": "اردو",
+
+  "More":"مزید",
+
+  "Version":"ورژن",
+
+  "Copyright":"کاپی رائٹ",
+
+  "Copyright ©": " کاپی رائٹ © {{value}}",
+
+  "Subcription":"سبسکرائب کریں",
+
+  "Subscribe Now":"سبسکرائب کریں",
+
+  "Please try again":"دوبارہ کوشش کریں",
+
+  "Invalid Number":"صحیح نمبر درج کریں",
+
+  "SMS resend successfuly":"SMS کامیابی سے بھیج دیا",
+
+  "Only Ufone users are allowed to use Ufone Info Service":"صرف زونگ صارفین کو زونگ انفارمیشن سروس کا استعمال کرنے کی اجازت ہے",
+
+  "Please enter 10 digits":"براہ مہربانی اپنے نمبر کے 10 ہندسوں درج کریں",
+
+  "Something went wrong please try again":"دوبارہ کوشش کریں",
+
+  "Subscription is Rs 3.00/week":"سبسکرپشن 3.00 / ہفتہ ہے",
+
+  "Enter Your Mobile Number": "اپنا نمبر درج کریں",
+
+  "Enter Your Verification Number":  "4 ہندسوں کا کوڈ درج کریں",
+
+  "Dear Customer, You will be charged Rs 1+Tax/Day for" : "معزز صارف  ، آپ سے نیوز سروس کیلئے 1 + ٹیکس / دن وصول کیا جائے گا۔" ,
+
+  "Dear User you are successfully unsubscribed to Ufone Info Service.Thank you.":"معزز صارف آپ زونگ انفارمیشن سروس کے لئے کامیابی سے عنسبسکرایب ہوچکے ہیں. شکریہ",
+
+  "You have insufficient amount to subscribe this service . Please recharge to access Ufone Info Service": "اس سروس کو سبسکرائب کرنے کیلئے آپ کی رقم ناکافی ہے.سروس سبسکرائب کرنے کیلئے اپنا اکاؤنٹ دوبارہ چارج کریں",
+
+  "Dear Customer, Thank you for logging in Ufone Info Service. Your registration code is " : "معزز صارف، زونگ انفارمیشن سروس میں لاگ ان کرنے کے لئے آپ کا شکریہ. آپ کا رجسٹریشن کوڈ ہے" ,
+
+  "Dear user your verification code is invalid, enter valid verification code or resend sms request.":"معزز صارف آپ کا تصدیق شدہ کوڈ غلط ہے، درست کوڈ داخل کریں یا ایس ایم ایس کی درخواست دوبارہ بھیج دیں",
+
+  "Dear User you are not subscribed to Ufone Info Service.Thank you.": "معزز صارف آپ زونگ انفارمیشن سروس کے لئے سبسکرائب نہیں ہے. شکریہ",
+
+  "Dear user you are not registered to Ufone Info Service":"معزز صارف آپ زونگ انفارمیشن سروس کے لئے رجسٹرڈ نہیں ہیں.",
+
+  "Service is not responding please try again later":"براہ کرم کچھ دیر بعد کوشش کریں سروس فی الحال جواب نہیں دے رہا ہے",
+
+  "*By Signing-In, I agree to User agreement, Terms and Condition along with Ufone Privacy Policy.": "سائن ان کرکے، میں زونگ پرائیویسی پالیسی کے ساتھ صارف کے معاہدے، شرائط اور حالت سے اتفاق کرتا ہوں*",
+
+  "You are starting the Weekly Subscription to Ufone Info Service. Your subscription will be renewed automatically.":"آپ زونگ انفارمیشن سروس کے لئے ہفتہ وار سبسکرپشن شروع کر رہے ہیں. آپ کی سبسکرپشن خود بخود تجدید کی جائے گی",
+
+  "All rights reserved. No parts of the content of this app may be reproduced or distributed in public, without the prior written permission of the publisher. All content, images and logos are copyright to  their respective owners and are protected under international copyright laws. Without prior written permission it is not permitted to copy, download,  or reproduce these images in any way whatsoever.":"جملہ حقوق محفوظ ہیں. اس اپلی کیشن کے کسی بھی حصوں کو پبلیشر کی پہلے لکھا اجازت کے بغیر، عوامی میں دوبارہ پیش یا تقسیم کیا جا سکتا ہے. تمام مواد، تصاویر اور علامات ان کے متعلقہ مالکان کے حق اشاعت ہیں اور بین الاقوامی کاپی رائٹ قوانین کے تحت محفوظ ہیں. پہلے تحریری اجازت کے بغیر یہ کسی بھی طرح ان تصاویر کی کاپی، ڈاؤن لوڈ کرنے یا دوبارہ دوبارہ کرنے کی اجازت نہیں ہے",
+
+
+
+  "Are you sure you want to": "کیا آپ واقعی میں کرنا چاہتے ہیں",
+
+  "Confirm":"تصدیق کرو!",
+
+  "Share": "شیر",
+
+  "Subscribe": "سبسکرائب",
+
+  "UnSubscribe": "ان سبسکرائب",
+
+  "Select Surah": "سور کو منتخب کریں",
+
+
+
+  "Subscription":"سبسکرپشن",
+
+  "Al Quran":"القرآن",
+
+  "Headlines":"سرخیاں",
+
+  "World News":"دنیا کی خبریں",
+
+  "Cricket":"کرکٹ",
+
+  "Football":"فٹ بال",
+
+  "Golf":"گولف",
+
+  "Tennis":"ٹینس",
+
+  "Formula 1":"فارمولا 1",
+
+  "Entertainment":"تفریح",
+
+  "Top Hollywood Movies":"ہالی ووڈ فلمیں",
+
+  "Top Bollywood Movies":"بالی ووڈ فلمیں",
+
+  "Horoscopes":"زائچہ",
+
+  "Technology":"ٹیکنالوجی",
+
+  "Science":"سائنس",
+
+  "Gadgets":"گیجٹ",
+
+  "Fitness Trackers":"صحت",
+
+  "Computers": "کمپیوٹر",
+
+  "Cars":"گاڑی",
+
+  "Fashion":"فیشن",
+
+  "Beauty":"خوبصورتی",
+
+  "Food & Restaurants":"کھانا اور ہوٹل",
+
+  "Food Recipes": "کھانے کی ترکیبیں",
+
+  "Search":"تلاش کریں",
+
+  "Service" : "خدمات",
+
+  "News":"خبریں",
+
+  "Horoscope":"زائچہ",
+
+  "INSUFFICIENT BALANCE":"ناکافی رقم",
+
+  "SUCCESSFULLY SUBSCRIBED":"کامیابی کے ساتھ سبسکرائب کیا",
+
+
+
+  "Surah":"سور",
+
+  "Ayat": "آیت",
+
+  "Al-Fatiha":"الفاتحہ",
+
+  "Al-Baqara":"البقرہ",
+
+  "Aal-e-Imran":"آلِ عمران",
+
+  "An-Nisa":"عن نساء",
+
+  "Maidah":"مائدہ",
+
+  "Al-An`am":"الانعام",
+
+  "Al-A'raf":"الاعراف",
+
+  "Al-Anfal":"الانفال",
+
+  "Taubah":"توبہ",
+
+  "Yunus":"یونس",
+
+  "Hud":"ہود",
+
+  "Yusuf":"یوسف",
+
+  "Ar-Ra'd":"الرعد",
+
+  "Ibrahim":"ابراہیم",
+
+  "Al-Hijr":"الحجر",
+
+  "An-Nahl":"عن النحل",
+
+  "Al-Isra":"الاسرا",
+
+  "Al-Kahf":"الکہف",
+
+  "Maryam":"مریم",
+
+  "Taha":"طه",
+
+  "Al-Anbiya":"الأنبياء",
+
+  "Al-Hajj":"الحاج",
+
+  "Al-Mu'minun":"آل المؤمنون",
+
+  "An-Noor":"والنور",
+
+  "Al-Furqan":"الفرقان",
+
+  "Ash-Shuara":"ایش-شوارا",
+
+  "An-Naml":"النمل",
+
+  "Al-Qasas":"القصص",
+
+  "Al-Ankabut":"العنكبوت",
+
+  "Ar-Rum":"الروم",
+
+  "Luqman":"لقمان",
+
+  "As-Sajdah":"السجدة",
+
+  "Al-Ahzab":"الأحزاب",
+
+  "Saba":"سابا",
+
+  "Fatir":"فاطر",
+
+  "Yaseen":"ياسين",
+
+  "As-Saffat":"الصافات",
+
+  "Sad":"سعد",
+
+  "Az-Zumar":"الزمر",
+
+  "Ghafir":"غافر",
+
+  "Fussilat":"فصلت",
+
+  "Ash-Shura":"الشورى",
+
+  "Az-Zukhruf":"الزخرف",
+
+  "Ad-Dukhan":"الدخان",
+
+  "Al-Jathiyah":"الجاتیہ",
+
+  "Al-Ahqaf":"الأحقاف",
+
+  "Muhammad":"محمد",
+
+  "Al-Fath":"الفتح",
+
+  "Al-Hujurat":"الحجرات",
+
+  "Qaf":"ق",
+
+  "Adh-Dhariyat":"الذاريات",
+
+  "At-Tur":"الطور",
+
+  "An-Najm":"النجم",
+
+  "Al-Qamar":"آل قمر",
+
+  "Ar-Rahman":"الرحمن",
+
+  "Waqiah":"واقیہ",
+
+  "Al-Hadid":"الحديد",
+
+  "Al-Mujadilah":"المجداللہ",
+
+  "Al-Hashr":"الحشر",
+
+  "Al-Mumtahanah":"الممتحنہ",
+
+  "As-Saff":"الصف",
+
+  "Al-Jumu'ah":"آل جمعة",
+
+  "Al-Munafiqun":"المنافقون",
+
+  "At-Taghabun":"التغابن",
+
+  "At-Talaq":"الطلاق",
+
+  "At-Tahrim":"التحريم",
+
+  "Al-Mulk":"الملك",
+
+  "Al-Qalam":"آل القلم",
+
+  "Al-Haaqqah":"آل الحاقة",
+
+  "Al-Ma'arij":"الماریج",
+
+  "Nooh":"نوح",
+
+  "Al-Jinn":"الجن",
+
+  "Al-Muzzammil":"المزمل",
+
+  "Al-Muddaththir":"المغدثیر",
+
+  "Al-Qiyamah":"آل القيامة",
+
+  "Al-Insan":"الإنسان",
+
+  "Al-Mursalat":"آل المرسلات",
+
+  "An-Naba":"النبأ",
+
+  "An-Nazi'at":"النازعات",
+
+  "Abasa":"عبس",
+
+  "At-Takwir":"التكوير",
+
+  "Al-Infitar":"الانفطار",
+
+  "Al-Mutaffifin":"المطففين",
+
+  "Al-Inshiqaq":"الانشقاق",
+
+  "Al-Buruj":"البرج",
+
+  "At-Tariq":"الطارق",
+
+  "Al-A'la":"العلا",
+
+  "Al-Ghashiya":"الغشیہ",
+
+  "Al-Fajr":"الفجر",
+
+  "Al-Balad":"البلاد",
+
+  "Ash-Shams":"الشمس",
+
+  "Al-Layl":"آل الليل",
+
+  "Ad-Duha":"الضحى",
+
+  "As-Sharh":"الشرح",
+
+  "At-Tin":"التين",
+
+  "Al-'alaq":"العلق",
+
+  "Al-Qadr":"القدر",
+
+  "Al-Bayyinah":"آل البينة",
+
+  "Az-Zalzalah":"الزلزلة",
+
+  "Al-'adiyat":"العاديات",
+
+  "Al-Qari'a":"القارعة",
+
+  "At-Takathur":"التكاثر",
+
+  "Al-Asr":"العصر",
+
+  "Al-Humazah":"الحمزہ",
+
+  "Al-Fil":"الفیل",
+
+  "Quraish":"قریش",
+
+  "Al-Ma'un":"المعان",
+
+  "Al-Kauthar":"الکوتھر",
+
+  "Al-Kafirun":"الکفیرون",
+
+  "An-Nasr":"النصر",
+
+  "Al-Masad":"المسد",
+
+  "Al-Ikhlas":"الإخلاص",
+
+  "Al-Falaq":"الفلق",
+
+  "An-Nas":"این ناس",
+
+  "Hide this category": "اس زمرے کو چھپائیں",
+
+  "Skip":"چھوڑ دو",
+
+  "Add Ufone Info Service to Home screen" : "ہوم اسکرین میں زونگ انفو سروس شامل کریں",
+
+  "If you can not find 'Add to Home screen'": "اگر آپ 'ہوم اسکرین میں شامل کریں' نہیں ڈھونڈ سکتے ہیں۔",
+
+  "Click Add to install App on your Home screen":"اپنی ہوم اسکرین پر ایپ انسٹال کرنے کے لئے شامل کریں پر کلک کریں",
+
+  "You can swipe feeds left to right":"آپ فیڈ کو بائیں سے دائیں سوائپ کر سکتے ہیں",
+
+  "Hide feed by clicking on the bottom right corner icon":"نیچے دائیں کونے کے آئیکن پر کلک کرکے فیڈ چھپائیں",
+
+  "Add or Hide feed cards by clicking on the bottom right corner icons":"نیچے دائیں کونے کی شبیہیں پر کلک کرکے فیڈ کارڈ شامل کریں یا چھپائیں",
+
+  "GET STARTED":"شروع کریں",
+
+  "Quran kay talafuz Seekhiye": "قرآن سیکھے"
+
+
+
+}
